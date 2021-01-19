@@ -1,3 +1,8 @@
+# LINKS ÚTEIS
+[MDN]       => https://developer.mozilla.org/pt-BR/
+[ECMA]      => https://www.ecma-international.org
+[W3SCHOOLS] => https://www.w3schools.com/js/default.asp
+
 # 01
 - Cliente x Servidor
 - Dispositivos recebem dados e informações de um servidor (celular(cliente) e youtube(servidor))
@@ -12,7 +17,8 @@
 # 02
 ## História da Internet
 ### REVER CURSO DE HTML-CSS-JS, TODAS AS ANOTAÇÕES LÁ
-- 1995, Brendan Nike (acho q escreve assim) cria a linguaguem 'moca' e por causa do sucesso da linguagem 'Java', 'moca' foi trocado para 'livescript' e por fim foi trocada para 'javascript' (nome).
+- 1995, Brendan Eich cria a linguaguem 'moca' e por causa do sucesso da linguagem 'Java', 'moca' foi trocado para 'livescript' e por fim foi trocada para 'javascript' (nome).
+- Netscape => Empresa criadora do javascript.
 - Java != JavaScript
 - Microsoft com o código do navegador mosaic, cria o Internet Explorer.
 - Microsoft tenta criar uma linguagem quase idêntica ao javascript, chamada de jscript.
@@ -44,3 +50,6 @@ __ANO____VERSÃO__
 - IMPACT
 - Melon.js
 - CraftyJS
+
+# 03
+- Sem Anotações 
