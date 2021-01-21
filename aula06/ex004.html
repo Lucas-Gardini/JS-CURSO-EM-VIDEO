@@ -18,10 +18,10 @@
 
 <body>
     <script>
-        window.alert("Minha primeira mensagem (mentira)");
-        window.confirm("Você é homo-sapiens?");
-        window.prompt("Digita ai o seu lanche preferido");
-        document.writeln("Hello, World! - Olá, Mundo!");
+        var nome = window.prompt("Qual é o seu nome?: ")
+        document.writeln(`Olá <strong>${nome}</strong>, seu nome tem ${nome.length} letras<br>`);
+        document.writeln(`Seu nome em maísculo é ${nome.toUpperCase()}<br>`);
+        document.writeln(`Seu nome em minúsculo é ${nome.toLowerCase()}<br>`);
     </script>
 </body>
 

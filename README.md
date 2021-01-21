@@ -1,22 +1,27 @@
 # LINKS ÚTEIS
-[MDN]       => https://developer.mozilla.org/pt-BR/
-[ECMA]      => https://www.ecma-international.org
+
+[MDN] => https://developer.mozilla.org/pt-BR/
+[ECMA] => https://www.ecma-international.org
 [W3SCHOOLS] => https://www.w3schools.com/js/default.asp
 
 # 01
+
 - Cliente x Servidor
 - Dispositivos recebem dados e informações de um servidor (celular(cliente) e youtube(servidor))
 - Cliente solicita arquivos ao servidores, servidores retornam estes arquivos
 - JavaScript nasceu voltado para o lado do cliente
 
-- [CLIENT-SIDE] => Trabalha com as principais linguagens web: HTML - CSS - *JS*
-- [HTML]        => Cuida do conteúdo
-- [CSS]         => Cuida do estilo
-- [JS]          => Cuida da interatividade
+- [CLIENT-SIDE] => Trabalha com as principais linguagens web: HTML - CSS - _JS_
+- [HTML] => Cuida do conteúdo
+- [CSS] => Cuida do estilo
+- [JS] => Cuida da interatividade
 
 # 02
+
 ## História da Internet
+
 ### REVER CURSO DE HTML-CSS-JS, TODAS AS ANOTAÇÕES LÁ
+
 - 1995, Brendan Eich cria a linguaguem 'moca' e por causa do sucesso da linguagem 'Java', 'moca' foi trocado para 'livescript' e por fim foi trocada para 'javascript' (nome).
 - Netscape => Empresa criadora do javascript.
 - Java != JavaScript
@@ -27,29 +32,37 @@
 - 2008, uma grande empresa cria seu próprio navegador, a famosa Google.
 - 2009, surge a V8. O motor por baixo do google chrome que roda javascript. (cada navegador tem o seu)
 - 2010, o nodejs é criado a partir do V8, pelo fato de ser código aberto, foi modificado para que rodasse fora do chrome.
+
 ## ECMAScript
-__ANO____VERSÃO__
+
+**ANO\_\_**VERSÃO\_\_
+
 - 1997 => 1.0
 - 1998 => 2.0
 - 1999 => 3.0
 - 2009 => ES5
 - 2015 => ES6
 - 2016 => ES2016
-...
+  ...
+
 ## TECNOLOGIAS
-- jQuery 
+
+- jQuery
 - Angular
 - React - ReactNative
 - Vue
 - Electron
 - Ionic
 - Cordova
+
 ## GAMING
+
 - Phaser
 - PixiJs
 - IMPACT
 - Melon.js
 - CraftyJS
 
-# 03
-- Sem Anotações 
+# Convertendo número para dinheiro:
+
+variavel_numero.toLocaleString('PT-BR', {style: 'currency', currency: 'BRL'})

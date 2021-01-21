@@ -18,10 +18,17 @@
 
 <body>
     <script>
-        window.alert("Minha primeira mensagem (mentira)");
-        window.confirm("Você é homo-sapiens?");
-        window.prompt("Digita ai o seu lanche preferido");
-        document.writeln("Hello, World! - Olá, Mundo!");
+        /*
+        Convertento número e strings:
+        var a = 1
+        Number(a) -> Convertendo para número
+        String(a) -> Convertento para string
+        */
+        var n1 = Number(window.prompt("Digite um número: "));
+        var n2 = Number(window.prompt("Digite outro número: "));
+        var som = n1 + n2;
+        String(som);
+        window.alert(`A soma entre ${n1} e ${n2} é igual a ${som} `)
     </script>
 </body>
 
